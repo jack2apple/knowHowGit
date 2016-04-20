@@ -1,33 +1,32 @@
-1. ???’ui?Žš‘Ì?‘åC˜aword“I??ˆÓŽvˆê?j
-ÝMarkdown“–’†?’u??C—L??•ûŽ®F
-‘æˆê?F’Ê?Ý•¶Žš‰º•û“Y‰Ág=h˜ag-hC‘¼?•ª?•\Ž¦ˆê???˜a“ñ???B
-‘æ“ñ?FÝ•¶Žš??‰Áã g#hC’Ê?g#h”—Ê•\Ž¦™{???Biˆê‹¤‘ü—L1~6???C1???Žš‘ÌÅ‘åj
+1. æ ‡é¢˜è®¾ç½®
+* é€šè¿‡åœ¨æ–‡å­—ä¸‹æ–¹æ·»åŠ â€œ=â€å’Œâ€œ-â€ï¼Œä»–ä»¬åˆ†åˆ«è¡¨ç¤ºä¸€çº§æ ‡é¢˜å’ŒäºŒçº§æ ‡é¢˜ã€‚
+* åœ¨æ–‡å­—å¼€å¤´åŠ ä¸Š â€œ#â€ï¼Œé€šè¿‡â€œ#â€æ•°é‡è¡¨ç¤ºå‡ çº§æ ‡é¢˜ã€‚ï¼ˆä¸€å…±åªæœ‰1~6çº§ï¼‰
 # H1
 ## H2
 ###### H6
 
-2. ?’?iblockquotej
-’Ê?Ý•¶Žš??“Y‰Ág>h•\Ž¦?’?Bi“–>˜a•¶Žš”V?“Y‰ÁŒÜ˜¢blank?C?’?“I•¶Žš‰ï—L?‰»Bj
+2. å—æ³¨é‡Š
+é€šè¿‡åœ¨æ–‡å­—å¼€å¤´æ·»åŠ â€œ>â€è¡¨ç¤ºå—æ³¨é‡Šã€‚ï¼ˆå½“>å’Œæ–‡å­—ä¹‹é—´æ·»åŠ äº”ä¸ªblankæ—¶ï¼Œå—æ³¨é‡Šçš„æ–‡å­—ä¼šæœ‰å˜åŒ–ã€‚ï¼‰
 > Blockquotes
 > Blockquotes
 
 > This is a long 
 blockquotes
 
-3. ŽÎ‘Ì
-«Žù—v?’u?ŽÎ‘Ì“I•¶Žš?’[Žg—p1˜¢g*hˆ½ŽÒg_h?‹N—ˆ
+3. æ–œä½“
+å°†éœ€è¦è®¾ç½®ä¸ºæ–œä½“çš„æ–‡å­—ä¸¤ç«¯ä½¿ç”¨1ä¸ªâ€œ*â€æˆ–è€…â€œ_â€å¤¹èµ·æ¥
 * Red *
 + Green +
 - Blue -
 
-4. ‘e‘Ì
-«Žù—v?’u?ŽÎ‘Ì“I•¶Žš?’[Žg—p2˜¢g*hˆ½ŽÒg_h?‹N—ˆ
+4. ç²—ä½“
+å°†éœ€è¦è®¾ç½®ä¸ºæ–œä½“çš„æ–‡å­—ä¸¤ç«¯ä½¿ç”¨2ä¸ªâ€œ*â€æˆ–è€…â€œ_â€å¤¹èµ·æ¥
 ** Red **
 ++ Green ++
 -- Blue --
 
-5. Ù˜—ñ•\
-Ý•¶Žš??“Y‰Á(*, +, and -)??Ù˜—ñ•\B’A¥—v’ˆÓÝ(*, +, and -)˜a•¶Žš”V?Žù—v“Y‰Á‹óŠiBiŒš?Fˆê˜¢•¶žƒ’†‘ü¥—pˆê?Ù˜—ñ•\“I•\Ž¦•ûŽ®j
+5. æ— åºåˆ—è¡¨
+åœ¨æ–‡å­—å¼€å¤´æ·»åŠ (*, +, and -)å®žçŽ°æ— åºåˆ—è¡¨ã€‚ä½†æ˜¯è¦æ³¨æ„åœ¨(*, +,and-)å’Œæ–‡å­—ä¹‹é—´éœ€è¦æ·»åŠ ç©ºæ ¼ã€‚
 * Red
 * Green
 * Blue
@@ -40,41 +39,36 @@ blockquotes
 - Green
 - Blue
 
-6. —L˜—ñ•\
-Žg—p”Žš@–Êæîã‹å†Bi?—v—L‹óŠij
+6. æœ‰åºåˆ—è¡¨
+ä½¿ç”¨æ•°å­—åŽé¢è·Ÿä¸Šå¥å·ã€‚ï¼ˆè¿˜è¦æœ‰ç©ºæ ¼ï¼‰
 1. Bird
 2. McHale
 3. Parish
 
-7. ?ÚiLinksj
-Markdown’†—L??•ûŽ®C???ÚC•ª??“à?•ûŽ®˜aˆø—p•ûŽ®B
-
-“à?•ûŽ®FThis is an [example link](http://example.com/).
-ˆø—p•ûŽ®F
+7. é“¾æŽ¥ï¼ˆLinksï¼‰
+* å†…è”æ–¹å¼ï¼šThis is an [example link](http://baidu.com/).
+* å¼•ç”¨æ–¹å¼ï¼š
 I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].  
 
 [1]: http://google.com/        "Google" 
 [2]: http://search.yahoo.com/  "Yahoo Search" 
 [3]: http://search.msn.com/    "MSN Search"
 
-8. ?•ÐiImagesj
-?•Ð“I?—•ûŽ®˜a?Ú“I?—•ûŽ®C”ñí“I?Ž—B
-“à?•ûŽ®F![alt text](/path/to/img.jpg "Title")
-ˆø—p•ûŽ®F
+8. å›¾ç‰‡ï¼ˆImagesï¼‰
+å›¾ç‰‡çš„å¤„ç†æ–¹å¼å’Œé“¾æŽ¥çš„å¤„ç†æ–¹å¼ï¼Œéžå¸¸çš„ç±»ä¼¼ã€‚
+å†…è”æ–¹å¼ï¼š![alt text](/path/to/img.jpg "Title")
+å¼•ç”¨æ–¹å¼ï¼š
 ![alt text][id]
 [id]: /path/to/img.jpg "Title"
 
-9. ‘ã?iHTML’†Š?“ICodej
-??•ûŽ®—L??F
-‘æˆê?F??•¶Žšo?ˆê˜¢‘ã?žyBŽg—p`<blockquote>`Bi`•s¥?ˆø†Ž§¥¶ãŠp“IESC‰º–Ê~’†“I`j
-‘æ“ñ?F‘å•Ð•¶ŽšŽù—v??‘ã?žyBŽg—pTab˜aŽl˜¢‹óŠiB
+9. ä»£ç ï¼ˆHTMLä¸­æ‰€è°“çš„Codeï¼‰
+* ç®€å•æ–‡å­—å‡ºçŽ°ä¸€ä¸ªä»£ç æ¡†ã€‚ä½¿ç”¨`<blockquote>`ã€‚ï¼ˆ`ä¸æ˜¯å•å¼•å·è€Œæ˜¯å·¦ä¸Šè§’çš„ESCä¸‹é¢~ä¸­çš„`ï¼‰
+* å¤§ç‰‡æ–‡å­—éœ€è¦å®žçŽ°ä»£ç æ¡†ã€‚ä½¿ç”¨Tabå’Œå››ä¸ªç©ºæ ¼ã€‚
 
-10. ‹r’ifootnotej
-??•ûŽ®”@‰ºF
+10. è„šæ³¨ï¼ˆfootnoteï¼‰
+å®žçŽ°æ–¹å¼å¦‚ä¸‹ï¼š
 hello[^hello]
-
-
 [^hello]: hi
 
-11. ‰º??
-Ý‹ó”’s‰º•û“Y‰ÁŽOðg-h‰¡?Bi‘O–Ê??Ý•¶Žš‰º•û“Y‰Ág-hC??“I2???j
+11. ä¸‹åˆ’çº¿
+åœ¨ç©ºç™½è¡Œä¸‹æ–¹æ·»åŠ ä¸‰æ¡â€œ-â€æ¨ªçº¿ã€‚
