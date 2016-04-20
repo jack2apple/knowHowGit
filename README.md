@@ -156,6 +156,19 @@ First Header | Second Header | Third Header
 Left         | Center        | Right
 Left         | Center        | Right
 
+#### Color
+<font color=red>红色</font>   
+<font color=green>绿色</font>   
+<font color=blue>蓝色</font>   
+<font color=brown>棕色</font>   
+<font color=blueviolet>紫色</font>   
+<font color=chartreuse>黄绿色</font>   
+<font color=chocolate>巧克力色</font>   
+<font color=cyan>水绿色</font>   
+<font color=deeppink>红粉色</font>   
+<font color=fuchsia>粉色</font>   
+<font color=gold>金色</font>   
+<font color=yellow>黄色</font>   
 
 ### Shortcuts
 
