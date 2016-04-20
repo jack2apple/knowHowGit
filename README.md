@@ -31,14 +31,14 @@
     [2]: http://search.yahoo.com/  "Yahoo Search"   
     [3]: http://search.msn.com/    "MSN Search"  
 
-8. 图片（Images）
+8. 图片（Images）  
   *内联方式：![alt text](/path/to/img.jpg "Title")  
   *引用方式：![alt text][id]  
     [id]: /path/to/img.jpg "Title"
 
 9. 代码（HTML中所谓的Code）
-  * 简单文字出现一个代码框。使用`<blockquote>`。（`不是单引号而是左上角的ESC下面~中的`）  
-  * 大片文字需要实现代码框。使用Tab和四个空格。
+  * 简单文字出现一个代码框。使用`print("Hello world!")`。（`不是单引号而是左上角的ESC下面~中的`）  
+  * 大片文字需要实现代码框。使用Tab和四个空格。     if(){}
 
 10. 脚注（footnote）  
   hello[^hello]  
