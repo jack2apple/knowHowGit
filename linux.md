@@ -1,5 +1,5 @@
-# linux
-## apt-get更新源
+## linux
+### apt-get更新源
 sudo cp /etc/apt/sources.list /etc/apt/sources.list_backup
 sudo gedit /etc/apt/sources.list
 deb http://mirrors.163.com/ubuntu/ trusty main restricted universe multiverse
@@ -13,10 +13,10 @@ deb-src http://mirrors.163.com/ubuntu/ trusty-updates main restricted universe m
 deb-src http://mirrors.163.com/ubuntu/ trusty-proposed main restricted universe multiverse
 deb-src http://mirrors.163.com/ubuntu/ trusty-backports main restricted universe multiverse
 
-## git 安装
+### git 安装
 sudo apt-get install git
 
-## 删除桌面图标(ubuntu14.04)
+### 删除桌面图标(ubuntu14.04)
 sudo apt-get install dconf-tools
 dconf-editor
 依次展开org.gnome.nautilus.desktop
