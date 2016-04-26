@@ -13,3 +13,8 @@ git config --global http.sslVerify false
 * github上添加ssh密钥，这要添加的是“id_rsa.pub”里面的公钥
 * 测试：ssh git@github.com
 * 获取源码：git clone git@github.com:user/repository
+
+#### 3.git ignore
+* vi ~/gitHub/.gitignore_global
+* 添加.DS_Store  
+* git config --global core.excludesfile ~/gitHub/.gitignore_global 
