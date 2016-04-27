@@ -18,3 +18,10 @@ git config --global http.sslVerify false
 * vi ~/gitHub/.gitignore_global
 * 添加.DS_Store  
 * git config --global core.excludesfile ~/gitHub/.gitignore_global 
+
+#### 4.本地仓库上传至远程新仓库
+* 本地git init add commit
+* github 新建仓库calculatorGit
+* git remote add origin git@github.com:user/calculatorGit
+* git pull origin master
+* git push origin master
