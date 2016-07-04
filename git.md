@@ -6,6 +6,8 @@ first：
 git config --global http.proxy http://username:password@proxiURL:proxiPort
 then：
 git config --global http.sslVerify false
+use https to clone:
+git clone https://github.com/user/repository
 
 #### 2.git ssh key 生成
 * 查看是否已经有了ssh密钥：cd ~/.ssh
